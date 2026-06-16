@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise Payment Gateway Platform",
+  "description": "A production-grade, state-of-the-art SaaS billing and real-time transaction processing platform with advanced AI insights, fraud risk matrix, Kafka event stream visualizer, webhook monitoring, and multi-role administrative panels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
